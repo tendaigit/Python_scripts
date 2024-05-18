@@ -19,7 +19,7 @@ Python scripts and code files
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<https://github.com/tendaigit/python_logging/tree/c915ccb297b218ddb3b14cff017a93f3dd15c92f/>
 <br />
 <br />
 Select the disk:  <br/>
