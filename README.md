@@ -19,7 +19,7 @@ Python scripts and code files
 
 <p align="center">
 Launch the utility: <br/>
-<https://github.com/tendaigit/python_logging/tree/c915ccb297b218ddb3b14cff017a93f3dd15c92f/>
+<https://github.com/tendaigit/python_logging/tree/c915ccb297b218ddb3b14cff017a93f3dd15c92f>
 <br />
 <br />
 Select the disk:  <br/>
